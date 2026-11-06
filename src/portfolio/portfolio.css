@@ -78,3 +78,6 @@
     height: 500px;
     object-fit: contain;
 }
+.support .content {
+   text-align: center;
+}

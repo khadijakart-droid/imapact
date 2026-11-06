@@ -16,6 +16,9 @@ function App() {
      <Service/>
      <Aboutus/>
      <Portfolio/>
+     <div>Welcome to gitbush</div>
+     <div>hello welcome for 2push</div>
+
     </>
   )
 }
