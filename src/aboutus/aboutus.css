@@ -1,0 +1,69 @@
+.About .content h2{
+    color: #0796d6;
+    font-size: 30px;
+    margin: 20px 0;
+}
+.About h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.About .conatiner{
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin: 40px;
+}
+
+.About .content{
+    text-align: center;
+}
+
+.About p{
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.About {
+    margin-top: 50px;
+}
+
+/* ....boxx.... */
+
+.counter-section {
+    display: flex;
+    width: 100%;
+    padding: 30px 5%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.counter-box {
+    width: 33.33%;
+    height: 157px;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.box-one {
+    background-color: #293640;
+    color: white;
+}
+
+.box-two {
+    background-color: #0796d6;
+    color: white;
+}
+
+.box-three {
+    background-color: #f4f4f4;
+    color: #293640;
+}
+
+.counter-box h1 {
+    font-size: 38px;
+    margin: 0 0 25px;
+}
+
+.counter-box h2 {
+    font-size: 28px;
+    margin: 0;
+}

@@ -1,0 +1,86 @@
+.heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.heading h1{
+    font-size: 30px;
+    line-height: 1.4;
+    margin: 20px 0 ;
+    font-weight: bold;
+}
+
+.black {
+    color: #000;
+}
+
+.blue {
+    color: #079bd5;
+}
+
+/* ///cards/// */
+
+.card-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px 25px;
+    padding: 20px;
+}
+
+.card {
+    width: 300px;
+    height: 370px;
+    border-top: 8px solid #0796d6;
+    border-bottom: 16px solid #0796d6;
+    border-radius: 15px;
+    box-shadow: 2px 2px 8px rgba(7, 150, 214, 0.8);
+    text-align: center;
+    padding: 20px 40px 50px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+
+.card h2 {
+    font-size: 24px;
+    margin-bottom: 22px;
+}
+
+.card .icon {
+    color: #0796d6;
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+
+.card p {
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.industry h1{
+    font-size: 40px;
+    line-height: 1.4;
+}
+
+.industry p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.icons{
+    background-color: #f7f7f7;
+     box-sizing: border-box;
+   
+}
+.icons .iconpic {
+    gap: 28px;
+    padding: 16px;
+    text-align: center;
+    margin: 0 auto;
+}
+.iconpic img{
+    height: 200px;
+    width: 200px;
+}

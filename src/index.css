@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Kanit, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+.row {
+  display: flex;
+  align-items: center;
+  margin: 0 -15px;
+  flex-wrap: wrap;
+}
+
+.container {
+  max-width: 1140px;
+  width: 100%;
+  padding: 0 15px;
+  margin: auto;
+}
+.col-3 {
+  width: 25%;
+  padding: 0 15px;
+}
+
+.col-4 {
+  width: 33.33%;
+  padding: 0 15px;
+}
+
+.col-8 {
+  width: 66.66%;
+  padding: 0 15px;
+}
+
+.col-7 {
+    width: 58.33%;
+    padding: 0 15px;
+}
+
+.col-9 {
+  width: 75%;
+  padding: 0 15px;
+}
+.col-5 {
+    width: 41.66%;
+    padding: 0 15px;
+}
+
+.col-6 {
+  padding: 0 15px;
+  width: 50%;
+}
+
+
